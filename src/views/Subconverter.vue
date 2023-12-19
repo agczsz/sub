@@ -485,7 +485,7 @@ export default {
             options: [
               {
                 label: "默认",
-                value: "https://raw.githubusercontent.com/WC-Dream/ACL4SSR/WD/Clash/config/ACL4SSR_Online_Full_Dream.ini"
+                value: "https://github.com/agczsz/clash-rule/raw/main/ACL4SSR_Online_Full.ini"
               },
               {
                 label: "默认（自动测速）",
