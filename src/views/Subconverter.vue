@@ -526,7 +526,7 @@ export default {
               },
               {
                 label: "ACL_无测速版",
-                value: "https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/config/ACL4SSR_Online_NoAuto.ini"
+                value: "https://github.com/agczsz/clash-rule/raw/main/ACL4SSR_Online_Full.ini"
               },
               {
                 label: "ACL_去广告版",
